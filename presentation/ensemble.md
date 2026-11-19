@@ -10,7 +10,9 @@ A few house rules:
 
 - a hero who's **down** gets back up if a friend stays close, holding **Pick up** (from the second stratum, the team shares two revives per stratum; once they're spent, the fallen sit out a room);
 - **doors wait for the whole team**;
-- after a room, everyone picks **their own cards**;
+- after a room, everyone picks **their own cards** from a shared deck. Lock a card to keep it through a reroll, which costs the team's gold. Each stratum gets a fresh deck;
 - a weapon chest holds **one weapon per hero**, plus one to spare.
+
+Some gate bosses wear **two rivets**. Strike one, then have a friend hit from the opposite side while the other is exposed. A lone survivor can do both parts by switching between a weapon hit and a power.
 
 **Esc** or **Start**: pause. **M**: mute. **F**: fullscreen, from the menus.
