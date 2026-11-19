@@ -9,6 +9,8 @@ by Claude.
 
 The **character sheet** in the pause, built by Codex, an AI coding agent, and laid out again by Claude.
 
+Codex also helped complete the twenty-stratum campaign and built **Sledge**, the bilingual **Field guide** and the new Duo effects.
+
 The game's code is under the MIT License (see `LICENSE`). What follows is bundled in `index.html` and keeps its own rights.
 
 ## Music

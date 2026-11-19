@@ -1,4 +1,4 @@
-**Infinite Dungeons** was designed and programmed by **Claude**, Anthropic's AI model: the engine, the rules, the crypt and its monsters, Toadstool Hollow, the interface… and every picture on this page, made from the game itself.
+**Infinite Dungeons** was designed and programmed by **Claude**, Anthropic's AI model: the engine, the rules, the crypt and its monsters, Toadstool Hollow, the interface… Claude also made the original pictures on this page from the game itself.
 
 - **Music** made with Suno and ElevenLabs.
 - **Sound effects** made with ElevenLabs, or synthesized by the game from recipes.
@@ -14,6 +14,8 @@ The engine reads all of its content as **data**: heroes, weapons, powers, monste
 **Volte**, a hero made for touch screens, was built by Codex too, from Claude's brief, with the glide and the back strike she needed, and Claude reviewed it batch by batch. She's off by default: switch her on in the same place.
 
 For the twenty-stratum campaign, Codex helped bring the **Powder Magazine** laboratory, **Stillwater Bog**, **Rock Bottom** and the final gates into play. **Gemini** prototyped three weapons you'll find along the way: the Cast-Iron Skillet, the Gust Bellows and the Pinball Trombone.
+
+Codex built **Sledge** and his quarry hammer, the bilingual **Field guide** and the new Duo signals. For Sledge, recordings of rushing air, struck steel and cracking stone from the game's ElevenLabs library were cut and mixed to follow the swing.
 
 The **Demo Pack** is the small one, without a single line of code. It's off by default: switch it on in the same place.
 
