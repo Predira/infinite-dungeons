@@ -1,6 +1,6 @@
 {
   "title": "Infinite Dungeons",
-  "description": "Choose Sledge or one of six other heroes for a twenty-stratum descent with up to four players on one screen. Sledge is a quarry worker who swings a two-handed hammer. Expose a monster with your power and let a teammate land the hit for a Duo. Open the Field guide from the title or pause menu for help in English or French. Wind-up soldiers guard the Powder Magazine, the Retort Brothers keep watch over Stillwater Bog, and Captain Brain-in-a-Jar waits at Rock Bottom. Pick cards from a shared deck, pass weapons to a friend and collect three scroll fragments to forge a Unique. Beat the Captain to win the campaign, then see how much farther you can go. Play with keyboard, mouse, controllers or touch. Save a run and pick it up later.",
+  "description": "Choose from ten heroes, including the Ferrywoman, the Bell Ringer and the Seamstress, for a twenty-stratum descent with up to four players on one screen. Hook a monster and throw it into its friends, time three blows with a pair of bell clappers, or parry and run two foes through with a sewing needle. Sledge still swings his two-handed quarry hammer. Expose a monster with your power and let a teammate land the hit for a Duo. Open the Field guide from the title or pause menu for help in English or French. Wind-up soldiers guard the Powder Magazine, the Retort Brothers keep watch over Stillwater Bog, and Captain Brain-in-a-Jar waits at Rock Bottom. Pick cards from a shared deck, pass weapons to a friend and collect three scroll fragments to forge a Unique. Beat the Captain to win the campaign, then see how much farther you can go. Play with keyboard, mouse, controllers or touch. Save a run and pick it up later. Dix héros, vingt strates et jusqu’à quatre joueurs sur le même écran. La Batelière jette un monstre sur les autres avec sa gaffe. Le Sonneur enchaîne trois coups de cloche. La Retoucheuse pare avec son dé et riposte à l’aiguille. Le Guide de jeu explique leurs gestes dans l’onglet Mêlée, à l’accueil et en pause.",
   "entrypoint": "index.html",
   "license": "MIT",
   "genre": [
@@ -22,7 +22,20 @@
     "Touch screen: left thumb to move, right thumb to aim and attack (auto-aim on by default), the buttons beside it to dodge, cast the power and pick up; every menu works by finger",
     "Card rewards: keep a card or spend shared gold to reroll the unlocked cards",
     "Hero screen: C (or Y on a controller) adds an AI companion",
-    "Esc or Start: pause. M: mute. F: fullscreen, from the menus"
+    "Esc or Start: pause. M: mute. F: fullscreen, from the menus",
+    "Ferrywoman. Hold Power to hook a foe, step sideways, then release to throw. Hook a colossus to swing around it.",
+    "Bell Ringer. Press Power to strike. When the clapper rises, press again for a backhand. At the next opening, press Power to strike with both clappers or Dodge to get out.",
+    "Seamstress. Face a melee blow and press Power just before it lands. After the parry, aim and press Power again to pierce up to two enemies in a line.",
+    "Clavier et souris. ZQSD sur AZERTY ou WASD sur QWERTY pour bouger, souris pour viser, clic gauche pour attaquer, clic droit pour le pouvoir, Espace pour esquiver, E pour ramasser, ouvrir ou ranimer.",
+    "Deuxième joueur au clavier. Flèches pour bouger, visée et attaque automatiques. Entrée ou Maj droite pour esquiver. Sur AZERTY, ! pour le pouvoir et : pour ramasser. Sur QWERTY, / et .",
+    "Manette. Stick gauche pour bouger, stick droit pour viser et attaquer, RT pour le pouvoir, LT pour esquiver, A pour ramasser, ouvrir ou ranimer.",
+    "Écran tactile. Le pouce gauche déplace le héros, le droit vise et attaque. Les boutons actionnent l’esquive, le pouvoir et le ramassage. La visée automatique est activée par défaut.",
+    "Cartes. Garde une carte ou dépense l’or de l’équipe pour relancer les cartes non verrouillées.",
+    "Choix du héros. C au clavier ou Y à la manette ajoute un compagnon piloté par le jeu.",
+    "Échap ou Start ouvre la pause. M coupe le son. F bascule en plein écran depuis les menus.",
+    "Batelière. Maintiens Pouvoir pour accrocher, marche de côté puis relâche pour jeter le monstre. Sur un colosse, c’est toi qui pivotes.",
+    "Sonneur. Appuie sur Pouvoir pour frapper. Rappuie quand le battant remonte pour le revers. À l’ouverture suivante, frappe des deux battants avec Pouvoir ou sors avec Esquive.",
+    "Retoucheuse. Appuie sur Pouvoir juste avant un coup de mêlée de face. Après la parade, vise et rappuie pour percer jusqu’à deux ennemis alignés."
   ],
   "credits": [
     "Designed and programmed by Claude, Anthropic's AI model",
@@ -31,6 +44,7 @@
     "The character sheet in the pause, built by Codex, an AI coding agent, and laid out again by Claude",
     "The twenty-stratum campaign was completed with Codex, including Stillwater Bog and Rock Bottom",
     "Sledge, the bilingual Field guide and the new Duo effects were built by Codex",
+    "The Ferrywoman, Bell Ringer and Seamstress, their melee techniques and their sound cues were built by Codex",
     "Music made with Suno and ElevenLabs, sound effects with ElevenLabs or synthesized by the game, under the usage rights of the accounts used; see CREDITS.md",
     "Code under the MIT License; the music, sound effects and fonts keep their own rights",
     "Fonts: Lilita One (Juan Montoreano) and Nunito (The Nunito Project Authors), SIL Open Font License 1.1",
@@ -56,7 +70,7 @@
       },
       {
         "id": "heros",
-        "title": "Seven heroes to start with",
+        "title": "Ten heroes to start with",
         "width": "full",
         "file": "presentation/heros.md"
       },

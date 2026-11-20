@@ -4,6 +4,10 @@ On a **phone or a tablet**, you play by finger: the left thumb moves, the right 
 
 The controls are carved into the floor of the Entrance, a row for each player, and each one goes dark as soon as you've tried it.
 
+The three new heroes use the same **Power** button on every device. Hold it with the **Ferrywoman** and step sideways, then let go to throw. With the **Bell Ringer**, press it again when the other clapper rises. With the **Seamstress**, press just before an incoming melee blow, then aim and press again after the parry. The **Melee** tab of the **Field guide** shows how to practice each move.
+
+**En français.** Le même bouton **Pouvoir** sert aux trois gestes. Avec la **Batelière**, maintiens-le, marche de côté, puis relâche pour projeter le monstre. Avec le **Sonneur**, rappuie quand le battant remonte pour le revers. Avec la **Retoucheuse**, appuie juste avant un coup de mêlée de face, puis vise et rappuie après la parade. L’onglet **Mêlée** du **Guide de jeu** se trouve à l’accueil et en pause.
+
 ![Each device's controls, as the game shows them](presentation/images/commandes.webp)
 
 A few house rules:

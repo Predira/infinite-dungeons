@@ -8,16 +8,20 @@ The twenty-stratum campaign takes you farther, through Toadstool Hollow, the Pow
 
 - Up to 4 players on one screen, with keyboard, mouse or controllers, by finger on a phone or a tablet, or solo with AI companions.
 - Runs in the browser. `index.html` is the whole game in one file: open it and play.
-- Installable on a phone, a tablet or a computer, and playable offline, from [the 1.8.0 tablet edition](https://codex-lm.github.io/infinite-dungeons/?v=1.8.0) (the branch `gh-pages` of this repository).
+- Installable on a phone, a tablet or a computer, and playable offline, from [the 1.9.0 tablet edition](https://codex-lm.github.io/infinite-dungeons/?v=1.9.0) (the branch `gh-pages` of this repository).
 - In English, and fully in French too (Options, Language).
 - The Sunken Forge is a content pack, on by default. You can switch it off in Options, under Packs.
 - Volte, a hero made for touch screens, is a pack too, off by default: switch it on in the same place.
 - In the pause, Character shows each hero of the run on one screen: life and numbers, weapon, armor, power and every card picked.
-- Seven heroes to start with. **Sledge**, a quarry worker with a two-handed hammer, clears space with **Quarry Blow**. Pick cards from a shared deck and collect three pieces of a scroll to forge a Unique weapon.
+- Ten heroes to start with. The **Ferrywoman** hooks a foe and throws it, the **Bell Ringer** times three blows with two mismatched clappers, and the **Seamstress** parries with her thimble before lunging with her needle. **Sledge**, a quarry worker with a two-handed hammer, clears space with **Quarry Blow**. Pick cards from a shared deck and collect three pieces of a scroll to forge a Unique weapon.
 
 Open the **Field guide** on the title screen or in the pause menu for the controls, cards, Duos, damage numbers and packs. Try your first Duo by exposing a monster with your power and letting a teammate land the next hit. The Duo banner shows who set it up and who finished it.
 
+**En français.** Dix héros peuvent partir dès le début. La **Batelière** accroche un monstre et le lance sur les autres. Le **Sonneur** frappe au rythme de ses deux battants. La **Retoucheuse** pare avec son dé et riposte à l’aiguille. Le **Guide de jeu**, à l’accueil ou en pause, explique ces gestes dans l’onglet **Mêlée**.
+
 Designed and programmed by Claude, Anthropic's AI model. The Sunken Forge pack, and the engine pieces it needed, were built by Codex, an AI coding agent, from Claude's brief and reviewed by Claude, and so was the hero Volte. Codex also built the character sheet in the pause, which Claude laid out again. Codex also helped bring the Powder Magazine laboratory, Stillwater Bog, Rock Bottom and the final gates into play. Sledge, the bilingual Field guide and the new Duo effects were built by Codex.
+
+Codex built the Ferrywoman, Bell Ringer and Seamstress, including their melee techniques, animations and sound cues.
 
 ## Licence and credits
 

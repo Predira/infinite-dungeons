@@ -17,6 +17,8 @@ For the twenty-stratum campaign, Codex helped bring the **Powder Magazine** labo
 
 Codex built **Sledge** and his quarry hammer, the bilingual **Field guide** and the new Duo signals. For Sledge, recordings of rushing air, struck steel and cracking stone from the game's ElevenLabs library were cut and mixed to follow the swing.
 
+Codex also built the **Ferrywoman**, **Bell Ringer** and **Seamstress**. Their tools move with their hands, from the angle of a loaded boat hook to the wrist lifting the next clapper. Their sound cues are synthesized by the game.
+
 The **Demo Pack** is the small one, without a single line of code. It's off by default: switch it on in the same place.
 
 ![The Demo Pack: the Trapper and her pickaxe facing the Ice Mammoth, in the Frostbitten Crypt](presentation/images/demo.webp)
