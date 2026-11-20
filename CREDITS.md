@@ -25,6 +25,8 @@ The game's code is under the MIT License (see `LICENSE`). What follows is bundle
 | Colossus | ElevenLabs |
 | Warden | Suno |
 | Sanctuary | ElevenLabs |
+| Contraband | ElevenLabs |
+| Night Watch | ElevenLabs |
 
 Made in November 2026 with Suno (Premier plan) and ElevenLabs (Starter plan), whose usage rights cover this game. The tracks are not covered by the MIT License and may not be reused outside the game.
 
