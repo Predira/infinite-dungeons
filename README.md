@@ -8,7 +8,7 @@ The twenty-stratum campaign takes you farther, through Toadstool Hollow, the Pow
 
 - Up to 4 players on one screen, with keyboard, mouse or controllers, by finger on a phone or a tablet, or solo with AI companions.
 - Runs in the browser. `index.html` is the whole game in one file: open it and play.
-- Installable on a phone, a tablet or a computer, and playable offline, from [the installable tablet edition](https://predira.github.io/infinite-dungeons/index.html) (the branch `gh-pages` of this repository).
+- Installable on a phone, a tablet or a computer, and playable offline, from [the installable tablet edition](https://predira.github.io/infinite-dungeons/) (the branch `gh-pages` of this repository).
 - In English, and fully in French too (Options, Language).
 - The Sunken Forge is a content pack, on by default. You can switch it off in Options, under Packs.
 - Volte, a hero made for touch screens, is a pack too, off by default: switch it on in the same place.

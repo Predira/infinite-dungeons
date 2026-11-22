@@ -17,7 +17,7 @@ Weapons drop from crates, chests, elites and the big monsters, in six rarities:
 
 The **Toad King** gives an Epic weapon to every hero; the first **Big Bolete** of a stratum, an Epic each; and the **Golden Chest** of the Hollow, one more.
 
-![The original fifteen weapons, from the crypt, the forge and the Hollow, then the same axe as Common, Uncommon and Rare, the Uncommon and the Rare each under its column of light](presentation/images/armes.webp)
+![Thirty-one weapons, from the Repeater Bow to the Spark Caster, each marked Ranged or Melee, then what every rarity adds, from Uncommon to Mythic](presentation/images/armes.webp)
 
 Walk up to a weapon: a label compares its damage, speed and reach with what you're holding. If it's better, take it. Your old weapon stays on the floor, for a friend.
 

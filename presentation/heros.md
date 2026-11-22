@@ -13,17 +13,13 @@ Ten heroes are ready to play. Bring up to four of them into the dungeon together
 
 The last two come from **The Sunken Forge**. Everyone has a **dodge** to slip through blows, and a **power** that recharges on its own.
 
-![The Ferrywoman with her hooked pole, the Bell Ringer with two clappers and the Seamstress with her needle and thimble](presentation/images/three-melee-heroes.webp)
+![The Ferrywoman, the Bell Ringer, the Seamstress, Bruiser and Sparkler, each casting their power, with their weapon and power below](presentation/images/heros-2.webp)
 
-*Their equipment cards list the Spear, Axe and Sword. These are the tools each hero carries when that weapon is equipped.*
-
-![Sledge in the forge with his quarry hammer resting across one shoulder](presentation/images/sledge.webp)
-
-*Sledge at the forge on the hero selection screen.*
+*The cards of the Ferrywoman, the Bell Ringer and the Seamstress list the Spear, Axe and Sword: in their hands these become the boat hook, the clappers and the needle.*
 
 Made for fingers on a tablet: **Volte**, the gliding duelist. Hold the dodge and she glides for up to a second, steered by your thumb around a foe; let go when the gold lights up behind its back, and she strikes it hard and gets her glide straight back. She comes as a pack: switch her on in **Options**, then **Packs**. Switch on **The Frostbitten Crypt Trapper** as well for the pickaxe-wielding **Trapper**. With both optional heroes, the full roster is twelve.
 
-![Five of the starting heroes, each casting their power, with their weapon and power below](presentation/images/heros.webp)
+![The Ranger, Bastion, the Duelist, the Wizard and Sledge, each casting their power, with their weapon and power below](presentation/images/heros.webp)
 
 A weapon found once stays in your **Arsenal**: next run, you can start with it. The Arsenal also keeps track of your powers and armor.
 
