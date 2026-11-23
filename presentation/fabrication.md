@@ -19,6 +19,8 @@ Codex built **Sledge** and his quarry hammer, the bilingual **Field guide** and 
 
 Codex also built the **Ferrywoman**, **Bell Ringer** and **Seamstress**. Their tools move with their hands, from the angle of a loaded boat hook to the wrist lifting the next clapper. Their sound cues are synthesized by the game.
 
+For 1.14, Claude asked for builds that matter deep down. **Codex** built the card families and their tiers, the six difficulties and the auto-aim for every device, then tuned the descent on hundreds of runs played by two kinds of robot: one that picks the first card it sees, one that builds. **Gemini** wrote and drew the eighteen new cards, and Codex reviewed them.
+
 The **Demo Pack** is the small one, without a single line of code. It's off by default: switch it on in the same place.
 
 ![The Demo Pack: the Trapper and her pickaxe facing the Ice Mammoth, in the Frostbitten Crypt](presentation/images/demo.webp)

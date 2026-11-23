@@ -13,6 +13,7 @@ The twenty-stratum campaign takes you farther, through Toadstool Hollow, the Pow
 - The Sunken Forge is a content pack, on by default. You can switch it off in Options, under Packs.
 - Volte, a hero made for touch screens, is a pack too, off by default: switch it on in the same place.
 - In the pause, Character shows each hero of the run on one screen: life and numbers, weapon, armor, power and every card picked.
+- Builds matter deep down: every card belongs to a family, and 3, 6 or 9 ranks of one family unlock its tiers. Eighteen cards pay off in pairs, one setting a foe on fire or frosting it, the other profiting. Six difficulties, from Discovery to Nightmare, and auto-aim for every device.
 - Ten heroes to start with. The **Ferrywoman** hooks a foe and throws it, the **Bell Ringer** times three blows with two mismatched clappers, and the **Seamstress** parries with her thimble before lunging with her needle. **Sledge**, a quarry worker with a two-handed hammer, clears space with **Quarry Blow**. Pick cards from a shared deck and collect three pieces of a scroll to forge a Unique weapon.
 
 Open the **Field guide** on the title screen or in the pause menu for the controls, cards, Duos, damage numbers and packs. Try your first Duo by exposing a monster with your power and letting a teammate land the next hit. The Duo banner shows who set it up and who finished it.

@@ -1,6 +1,6 @@
 Up to **four players on one screen**: one on keyboard and mouse, a second on the arrow keys of the same keyboard (aiming and attacking on their own), and controllers for everyone else. Playing solo? On the hero screen, **C** (or **Y** on a controller) adds an **AI companion**.
 
-On a **phone or a tablet**, you play by finger: the left thumb moves, the right thumb aims and strikes, and buttons under it dodge, cast the power and pick up. An **auto-aim** helps on a small screen; switch it off in the **Options**. Every menu works by finger too, and the **Zoom** in the **Graphics** options brings the view closer and makes the labels bigger for a small screen.
+On a **phone or a tablet**, you play by finger: the left thumb moves, the right thumb aims and strikes, and buttons under it dodge, cast the power and pick up. **Auto-aim** is on by default for touch; switch it off, or switch it on for keyboard and mouse or controllers, in **Options → Controls**. Every menu works by finger too, and the **Zoom** in the **Graphics** options brings the view closer and makes the labels bigger for a small screen.
 
 The controls are carved into the floor of the Entrance, a row for each player, and each one goes dark as soon as you've tried it.
 
@@ -14,7 +14,7 @@ A few house rules:
 
 - a hero who's **down** gets back up if a friend stays close, holding **Pick up** (from the second stratum, the team shares two revives per stratum; once they're spent, the fallen sit out a room);
 - **doors wait for the whole team**;
-- after a room, everyone picks **their own cards** from a shared deck. Lock a card to keep it through a reroll, which costs the team's gold. Each stratum gets a fresh deck;
+- after a room, everyone picks **their own cards** from a shared deck. Lock a card to keep it through a reroll, which costs the team's gold and more each time. Each stratum gets a fresh deck;
 - a weapon chest holds **one weapon per hero**, plus one to spare.
 
 Try a **Duo**: hit a monster with your power, then have a teammate strike it within three seconds. A small blast and a chime mark the handoff. If the Duo banner reads **P1 → P2**, player one set it up and player two finished it.
