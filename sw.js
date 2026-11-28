@@ -10,8 +10,8 @@
 // A new version installs in the background while the old one plays on (the running page is whole and asks the cache for
 // nothing more), takes over at once and drops the old copy. The page then offers a restart on the title screen
 // (src/app/offline.ts); otherwise the next start opens the new version.
-const FILES = [{"url":"./","sha256":"ce30c45ea31f47252e2ee9f67042e4ca9bf76f299509111d51fc2de16bb3d3c6"},{"url":"manifest.webmanifest","sha256":"b092a3e0baf8e7e314e74dd24e8f16880ed5e13e7ec9ca86136e3796094e170a"},{"url":"icons/icon-192.png","sha256":"7ba5bcd5ebcded033b0a9fddc9093902ad4799fa9d818192934b870d1485c5e2"},{"url":"icons/icon-512.png","sha256":"a7051c8ae35ba66bcd912e8387cb3139233c500b513a0cd09637b3d3b5060c77"},{"url":"icons/apple-touch-icon.png","sha256":"4c891fc31ed26b648f93c8ccc2b1097be4a0aa8e4032ee5a484ca5ced95a2755"}];
-const VERSION = "dc6fcfba46b78050";
+const FILES = [{"url":"./","sha256":"defc36ea7f239d3288834e51f6a04a32217948ea738a0694ec4ed469a9c3f648"},{"url":"manifest.webmanifest","sha256":"b092a3e0baf8e7e314e74dd24e8f16880ed5e13e7ec9ca86136e3796094e170a"},{"url":"icons/icon-192.png","sha256":"7ba5bcd5ebcded033b0a9fddc9093902ad4799fa9d818192934b870d1485c5e2"},{"url":"icons/icon-512.png","sha256":"a7051c8ae35ba66bcd912e8387cb3139233c500b513a0cd09637b3d3b5060c77"},{"url":"icons/apple-touch-icon.png","sha256":"4c891fc31ed26b648f93c8ccc2b1097be4a0aa8e4032ee5a484ca5ced95a2755"}];
+const VERSION = "2b5ec4a00325f1c7";
 const PREFIX = 'infinite-dungeons-';
 const CACHE = PREFIX + VERSION;
 /** The page itself, at the scope's own address (or its index.html): a navigation there opens the game from the copy. */
